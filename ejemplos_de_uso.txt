@@ -1,0 +1,48 @@
+//Caso de Nosotros:
+
+1) ( ) ; x $
+
+2) A B C S
+
+3) S
+
+4)
+S <- ( A )
+A <- C B
+B <- ; A
+B <- 0
+C <- x
+C <- S
+
+Cadenas que debería aceptar:
+
+(x)
+(x;x)
+((x;x);x)
+
+//Caso que acepta Ejemplo 1
+
+1) abcde
+
+2) A B C S
+
+3) S
+
+4)
+S <- B A a
+A <- b C
+C <- c
+B <- d
+B <- e B
+
+Cadenas:
+e d b c a
+
+// Caso que acepta Ejemplo 2
+
+Cadenas:
+a a
+a b b
+
+Pdf del libro hay más ejemplos:
+http://almuhammadi.com/sultan/books/Linz.5ed.pdf
