@@ -1,0 +1,34 @@
+#header{
+  background-color: rgb(223, 255, 250);
+  padding: 1px;
+  padding-top: 5px;
+}
+
+div.container{
+  padding-top: 20px;
+  margin-left: 30%;
+}
+
+body{
+  background-color: rgb(240, 255, 250);
+}
+
+h1{
+  text-align: center;
+}
+
+.form-group {
+  margin-right: 640px;
+}
+
+blockquote{
+  padding-right: 56%;
+}
+
+#producciones{
+  padding-right: 56%;
+}
+
+#div_tabla_decisiones{
+  margin-right: 56%;
+}
