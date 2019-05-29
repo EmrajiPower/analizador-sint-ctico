@@ -36,13 +36,26 @@ B <- d
 B <- e B
 
 Cadenas:
-e d b c a
+edbca
 
 // Caso que acepta Ejemplo 2
 
+1)abc
+
+2) S A B C
+
+3) S
+
+4)
+S <- aA
+A <- bB
+A <- a
+B <- b
+C <- c
+
 Cadenas:
-a a
-a b b
+aa
+abb
 
 Pdf del libro hay más ejemplos:
 http://almuhammadi.com/sultan/books/Linz.5ed.pdf
