@@ -192,7 +192,7 @@ function insertar_produccion() {
 function generarTablaAnalisis() {
 	var analisis = document.getElementById('analisis');
 
-	analisis.hidden = false;
+	// analisis.hidden = false;
 
 	var T = generar_tabla_analisis();
 
